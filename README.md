@@ -4,6 +4,12 @@
 
 Turn a fictional, deliberately messy sales CSV into an explainable, trustworthy Power BI report. This challenge is **not** a completed PBIX dashboard and **does not require Power BI Service**.
 
+## Start here — free hands-on challenge
+
+**New to Power BI?** Follow the [guided learner walkthrough](docs/START_HERE.md), which takes you from a messy CSV through an auditable Sales Snapshot and a reconciliation checklist. Try the [exercise](exercises/challenge.md) first; use the solution notes only after your own attempt.
+
+Changes to the CSV or validation script are checked automatically by [GitHub Actions](.github/workflows/validate-dataset.yml). This checks the *synthetic data and its expected totals*, not whether the Power BI Desktop report has been built or tested.
+
 ## Learning outcomes
 - Import CSV into Power BI Desktop and inspect data-quality issues.
 - Remove exact duplicate rows without silently merging distinct orders.
