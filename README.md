@@ -24,6 +24,7 @@ Changes to the CSV or validation script are checked automatically by [GitHub Act
 - `exercises/challenge.md`: exercise and acceptance criteria.
 - `solutions/power_query_steps.md`: suggested Power Query transformation logic.
 - `solutions/dax_measures.md`: starter DAX and reporting checks.
+- [`solutions/verified_breakdowns.md`](solutions/verified_breakdowns.md): independently checked sales totals by region and product, missing-quantity exceptions, and troubleshooting tips.
 - `scripts/verify_dataset.py`: dependency-free validation script.
 
 ## Getting started
