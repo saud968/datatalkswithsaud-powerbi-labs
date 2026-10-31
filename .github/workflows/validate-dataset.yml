@@ -1,0 +1,27 @@
+name: Validate synthetic sales data
+
+on:
+  push:
+    paths:
+      - "data/**"
+      - "scripts/**"
+      - ".github/workflows/validate-dataset.yml"
+  pull_request:
+    paths:
+      - "data/**"
+      - "scripts/**"
+      - ".github/workflows/validate-dataset.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify-dataset:
+    name: Check CSV and expected totals
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Run validation with Python 3
+        run: python3 scripts/verify_dataset.py
