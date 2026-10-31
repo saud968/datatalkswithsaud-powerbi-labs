@@ -1,0 +1,126 @@
+﻿OrderID,OrderDate,Region,Product,Quantity,UnitPrice,CustomerName,PaymentMethod
+DTS-0024,02/10/2026,South,Laptop Stand,3,"₹1,800.00",Customer 11,Cash
+DTS-0114,04/10/2026,west,Laptop Stand,4,₹225.00,Customer 23,Cash
+DTS-0043,2026-10-19,North,Notebook,3,399.00,Customer 2,Card
+DTS-0056,2026-10-18,EAST,USB Hub,2,₹399.00,Customer 17,Card
+DTS-0097,2026-10-04,North,USB Hub,1,225.00,Customer 25,Cash
+DTS-0092,2026-10-29,North,Monitor Riser,5,₹150.00,Customer 7,Card
+DTS-0022,2026-10-02,EAST,Laptop Stand,3,"₹1,800.00",Customer 8,Cash
+DTS-0077,2026-10-24, West ,Monitor Riser,5,1250.00,Customer 22,UPI
+DTS-0014,2026-10-14, NORTH ,Desk Lamp,2,₹225.00,,Card
+DTS-0042,05/10/2026,west,Desk Lamp,1,₹399.00,Customer 20,UPI
+DTS-0108,17/10/2026, West ,Desk Lamp,1,"₹1,250.00",Customer 23,UPI
+DTS-0115,2026-10-18,East,USB Hub,3,225.00,Customer 4,
+DTS-0103,2026-10-23, NORTH ,USB Hub,4,1250.00,Customer 21,UPI
+DTS-0032,2026-10-17, West ,Laptop Stand,4,₹750.00,,Card
+DTS-0044,2026-10-15, West ,Wireless Mouse,1,₹225.00,Customer 22,Cash
+DTS-0060,15/10/2026,EAST,Monitor Riser,1,"₹1,250.00",Customer 19,Cash
+DTS-0095,2026-10-20,south ,Wireless Mouse,4,150.00,Customer 7,Card
+DTS-0083,2026-10-30, NORTH ,Notebook,2,399.00,Customer 5,UPI
+DTS-0016,2026-10-23,west,Wireless Mouse,4,₹150.00,Customer 19,UPI
+DTS-0023,2026-10-16, NORTH ,Notebook,5,2450.00,Customer 6,Cash
+DTS-0050,2026-10-11,North,Wireless Mouse,5,₹750.00,Customer 24,Cash
+DTS-0072,25/10/2026,west,Desk Lamp,4,₹750.00,Customer 17,Cash
+DTS-0040,2026-10-16,East,USB Hub,5,"₹1,250.00",Customer 2,Cash
+DTS-0102,10/10/2026,East,Wireless Mouse,1,₹150.00,Customer 5,Card
+DTS-0076,2026-10-07, NORTH ,Wireless Mouse,5,₹399.00,Customer 10,UPI
+DTS-0057,13/10/2026,North,Monitor Riser,2,1250.00,Customer 6,Cash
+DTS-0007,2026-10-10,North,Notebook,,225.00,Customer 13,Cash
+DTS-0101,2026-10-17, West ,Laptop Stand,2,1250.00,Customer 20,Card
+DTS-0111,03/10/2026,North,Wireless Mouse,1,2450.00,Customer 24,Cash
+DTS-0013,2026-10-21,EAST,USB Hub,4,399.00,Customer 2,UPI
+DTS-0107,2026-10-08,South,USB Hub,3,750.00,Customer 21,UPI
+DTS-0090,19/10/2026,North,Monitor Riser,3,"₹2,450.00",,Cash
+DTS-0116,2026-10-20,south ,Notebook,1,₹399.00,Customer 10,Card
+DTS-0081,21/10/2026,west,Wireless Mouse,1,2450.00,Customer 23,UPI
+DTS-0006,17/10/2026, West ,USB Hub,1,"₹2,450.00",Customer 13,Cash
+DTS-0096,08/10/2026,East,Laptop Stand,5,"₹1,800.00",Customer 7,Card
+DTS-0063,17/10/2026,South,Notebook,1,225.00,Customer 1,UPI
+DTS-0021,19/10/2026,East,USB Hub,2,399.00,Customer 3,Card
+DTS-0119,2026-10-07,North,Monitor Riser,3,750.00,Customer 23,UPI
+DTS-0047,2026-10-03, West ,Desk Lamp,5,225.00,Customer 21,Card
+DTS-0020,2026-10-25,East,Laptop Stand,2,₹150.00,Customer 22,Card
+DTS-0112,2026-10-17, NORTH ,Desk Lamp,3,"₹1,250.00",Customer 20,UPI
+DTS-0027,07/10/2026,north,Monitor Riser,2,150.00,Customer 5,UPI
+DTS-0045,27/10/2026,South,Monitor Riser,4,1800.00,Customer 23,Card
+DTS-0041,2026-10-26,East,Notebook,2,750.00,Customer 11,Cash
+DTS-0035,2026-10-22,west,Wireless Mouse,4,150.00,Customer 20,Card
+DTS-0050,2026-10-11,North,Wireless Mouse,5,₹750.00,Customer 24,Cash
+DTS-0048,27/10/2026, West ,Laptop Stand,2,₹750.00,,Cash
+DTS-0064,2026-10-04,north,USB Hub,1,₹399.00,Customer 6,Card
+DTS-0039,09/10/2026,East,Laptop Stand,3,1800.00,Customer 2,UPI
+DTS-0115,2026-10-18,East,USB Hub,3,225.00,Customer 4,
+DTS-0012,24/10/2026,south ,Laptop Stand,4,"₹1,250.00",Customer 17,Cash
+DTS-0028,2026-10-20,East,Laptop Stand,4,₹225.00,Customer 7,Cash
+DTS-0058,2026-10-03,East,Monitor Riser,1,₹225.00,Customer 16,UPI
+DTS-0089,2026-10-18,west,Notebook,3,1800.00,Customer 10,Card
+DTS-0011,2026-10-08,north,USB Hub,1,750.00,Customer 12,UPI
+DTS-0018,02/10/2026,north,Laptop Stand,5,"₹1,250.00",Customer 12,
+DTS-0084,09/10/2026, West ,Monitor Riser,5,₹399.00,Customer 12,UPI
+DTS-0113,2026-10-26, NORTH ,USB Hub,2,1800.00,Customer 2,Cash
+DTS-0070,2026-10-03,south ,Monitor Riser,2,"₹1,800.00",Customer 3,Card
+DTS-0109,2026-10-16,EAST,Wireless Mouse,4,2450.00,Customer 6,UPI
+DTS-0031,2026-10-07,north,Monitor Riser,3,750.00,Customer 2,Cash
+DTS-0075,30/10/2026, NORTH ,Monitor Riser,5,1800.00,Customer 15,Card
+DTS-0086,2026-10-10,west,Laptop Stand,1,₹399.00,Customer 25,Card
+DTS-0059,2026-10-21, NORTH ,USB Hub,5,225.00,Customer 12,UPI
+DTS-0001,2026-10-22,north,USB Hub,1,399.00,Customer 21,Cash
+DTS-0030,18/10/2026,north,Notebook,,₹750.00,Customer 1,UPI
+DTS-0053,2026-10-06,north,Desk Lamp,3,2450.00,Customer 2,UPI
+DTS-0005,2026-10-04,EAST,Notebook,4,225.00,Customer 1,UPI
+DTS-0066,09/10/2026,EAST,Monitor Riser,2,₹225.00,Customer 14,Cash
+DTS-0026,2026-10-12,south ,Wireless Mouse,3,"₹1,250.00",Customer 15,UPI
+DTS-0062,2026-10-28,EAST,USB Hub,1,₹150.00,Customer 12,Cash
+DTS-0093,06/10/2026,East,Laptop Stand,3,150.00,Customer 19,Cash
+DTS-0073,2026-10-21,EAST,Notebook,1,750.00,Customer 22,UPI
+DTS-0019,2026-10-30,South,Desk Lamp,3,750.00,Customer 5,Card
+DTS-0061,2026-10-27,south ,Notebook,,1250.00,Customer 6,UPI
+DTS-0087,10/10/2026,west,USB Hub,1,225.00,Customer 2,Cash
+DTS-0037,2026-10-26,west,Wireless Mouse,5,225.00,Customer 19,Cash
+DTS-0051,14/10/2026, NORTH ,Notebook,5,1800.00,Customer 14,Card
+DTS-0069,27/10/2026,South,USB Hub,5,150.00,Customer 12,UPI
+DTS-0003,29/10/2026,East,Laptop Stand,5,225.00,Customer 7,UPI
+DTS-0078,22/10/2026,EAST,Wireless Mouse,1,"₹1,250.00",Customer 23,Cash
+DTS-0021,19/10/2026,East,USB Hub,2,399.00,Customer 3,Card
+DTS-0034,2026-10-12, West ,Notebook,3,₹750.00,Customer 14,Card
+DTS-0002,2026-10-30,South,Monitor Riser,4,"₹1,800.00",,UPI
+DTS-0079,2026-10-12,south ,Wireless Mouse,5,150.00,Customer 19,
+DTS-0052,2026-10-12,west,Wireless Mouse,3,₹750.00,Customer 24,Cash
+DTS-0049,2026-10-24, West ,Monitor Riser,2,225.00,Customer 6,UPI
+DTS-0008,2026-10-11,South,Laptop Stand,5,₹750.00,Customer 23,UPI
+DTS-0094,2026-10-02,North,Laptop Stand,1,₹399.00,Customer 3,Cash
+DTS-0085,2026-10-12,north,Notebook,1,2450.00,Customer 15,UPI
+DTS-0091,2026-10-11,South,Desk Lamp,1,1800.00,Customer 17,UPI
+DTS-0004,2026-10-16,EAST,USB Hub,2,₹150.00,Customer 6,Cash
+DTS-0029,2026-10-06,north,Notebook,5,2450.00,Customer 16,Cash
+DTS-0110,2026-10-01,north,Laptop Stand,2,₹750.00,,Cash
+DTS-0117,23/10/2026, NORTH ,Laptop Stand,3,750.00,Customer 19,Cash
+DTS-0038,2026-10-24,west,Wireless Mouse,5,₹150.00,Customer 11,Card
+DTS-0120,03/10/2026,south ,Wireless Mouse,3,"₹1,800.00",Customer 6,Cash
+DTS-0104,2026-10-30,South,Notebook,2,₹750.00,Customer 23,Cash
+DTS-0068,2026-10-14,north,Desk Lamp,4,"₹1,800.00",Customer 9,UPI
+DTS-0025,2026-10-15,north,Notebook,3,750.00,Customer 2,Cash
+DTS-0010,2026-10-04,North,Laptop Stand,1,"₹2,450.00",Customer 23,Card
+DTS-0105,17/10/2026, West ,Wireless Mouse,4,1800.00,Customer 7,Card
+DTS-0079,2026-10-12,south ,Wireless Mouse,5,150.00,Customer 19,
+DTS-0074,2026-10-08,East,Wireless Mouse,2,₹150.00,Customer 9,UPI
+DTS-0098,2026-10-30,North,Desk Lamp,2,₹150.00,Customer 15,Card
+DTS-0033,21/10/2026, NORTH ,Laptop Stand,4,150.00,Customer 10,Card
+DTS-0118,2026-10-30, West ,Wireless Mouse,3,"₹1,250.00",Customer 19,Cash
+DTS-0003,29/10/2026,East,Laptop Stand,5,225.00,Customer 7,UPI
+DTS-0088,2026-10-28,North,USB Hub,3,"₹1,250.00",Customer 25,UPI
+DTS-0065,2026-10-03,west,Desk Lamp,5,150.00,Customer 5,Card
+DTS-0017,2026-10-16,East,Laptop Stand,3,2450.00,Customer 22,UPI
+DTS-0080,2026-10-05,west,Notebook,2,"₹2,450.00",Customer 15,Cash
+DTS-0054,02/10/2026, NORTH ,USB Hub,4,"₹1,800.00",Customer 8,UPI
+DTS-0099,04/10/2026, NORTH ,Notebook,,750.00,Customer 21,Card
+DTS-0046,2026-10-28,South,USB Hub,4,"₹1,800.00",Customer 1,Cash
+DTS-0015,05/10/2026,EAST,Monitor Riser,1,399.00,Customer 20,Cash
+DTS-0071,2026-10-15,North,Monitor Riser,1,750.00,Customer 9,UPI
+DTS-0082,2026-10-09,north,Monitor Riser,2,"₹2,450.00",Customer 25,Cash
+DTS-0106,2026-10-01,west,Monitor Riser,1,₹150.00,Customer 8,Card
+DTS-0100,2026-10-21, West ,Wireless Mouse,5,₹750.00,Customer 5,Cash
+DTS-0036,11/10/2026, NORTH ,Notebook,1,"₹2,450.00",Customer 16,Cash
+DTS-0009,04/10/2026,EAST,Desk Lamp,3,1800.00,Customer 18,Card
+DTS-0055,2026-10-07,North,Notebook,4,2450.00,Customer 3,UPI
+DTS-0067,2026-10-13,EAST,USB Hub,3,150.00,Customer 5,Cash

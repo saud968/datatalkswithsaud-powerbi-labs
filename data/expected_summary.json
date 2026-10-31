@@ -1,0 +1,11 @@
+{
+  "raw_rows": 125,
+  "exact_duplicates": 5,
+  "rows_after_deduplication": 120,
+  "missing_quantity_unique_rows": 4,
+  "blank_customer_unique_rows": 6,
+  "blank_payment_method_unique_rows": 3,
+  "reportable_rows": 116,
+  "total_sales_inr": "329570.00",
+  "distinct_reportable_orders": 116
+}
