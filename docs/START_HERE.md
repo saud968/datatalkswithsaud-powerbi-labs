@@ -44,6 +44,7 @@ The raw export contains orders without a Quantity. Automatically filling those g
 - [Starter DAX measures](../solutions/dax_measures.md) — illustrative; not yet executed in Power BI Desktop
 - [Validation script](../scripts/verify_dataset.py) — run `python scripts/verify_dataset.py` from the repository root
 - [Expected results](../data/expected_summary.json)
+- [Verified region/product answer key](../solutions/verified_breakdowns.md) — check your final breakdowns and missing-quantity exceptions **after** attempting the exercise
 
 ## Share your learning, not private data
 
