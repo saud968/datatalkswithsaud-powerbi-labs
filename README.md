@@ -42,5 +42,9 @@ Create a one-page Sales Snapshot with Total Sales, Reportable Orders, average or
 ## Attribution and reuse
 Original example data and learning content © 2026 Saud Ansari / DataTalksWithSaud. Licensed under MIT (see `LICENSE`). Power BI is a Microsoft product; this independent tutorial is not affiliated with Microsoft.
 
+## More free practice
+
+Want to practise SQL as well? Try **[DataTalksWithSaud SQL Labs](https://github.com/saud968/datatalkswithsaud-sql-labs)**: 12 tested SQLite exercises using fictional customers and orders, with answer keys and automated checks. No paid database required.
+
 ## About the author
 [GitHub — saud968](https://github.com/saud968) · [LinkedIn](https://www.linkedin.com/in/saud-ansari968/) · [DataTalksWithSaud on Topmate](https://topmate.io/saud_ansari)
